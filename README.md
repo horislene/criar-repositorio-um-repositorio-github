@@ -1,13 +1,12 @@
 # criar-repositorio-um-repositorio-github
 # **Como Criar um Repositório**
 
-Importante: Esse repositório é o meu primeiro repositório criado, com o objetivo de realizar o desafio do projeto"
-Criando seu Primeiro Repositório no GitHub". Esse projeto tem a função de mostrar o básico para você criar seu primeiro repositório. Vamos lá?
+Esse projeto tem a função de mostrar o básico para você criar seu primeiro repositório. Vamos lá?
 
 1. Você tem que criar uma conta no site: [GitHub.com](https://github.com/)
 
 
-2. No menu superior do lado direito, clique na seta para baixo e selecione **"New Repository"** igual mostra as figuras abaixo:
+2. No menu superior do lado direito, clique na seta para baixo e selecione **"New Repository"** igual mostram as figuras abaixo:
 
 ![new repository](https://user-images.githubusercontent.com/97802196/154554226-9c7bfd0a-e83e-4b01-bab5-ab7ff3efe8b8.jpg)
 
@@ -36,6 +35,9 @@ Eu fiz meu repositório com a opção "Add a README file", pois essa opção per
 ![criar repositorio](https://user-images.githubusercontent.com/97802196/154562577-d1c28bfe-1346-4289-af3e-8ebaf5d8e854.jpg)
 
 Pronto, você já criou o seu primeiro repositório. O proximo passo é adicionar o conteúdo no seu repositório.
+
+Importante: Esse repositório é o meu primeiro repositório criado, com o objetivo de realizar o desafio do projeto"
+Criando seu Primeiro Repositório no GitHub", sendo assim, não mostrei  como editar,ou seja adicionar os conteúdos no repositório, ou clonar para maquina local.
 
  
 
