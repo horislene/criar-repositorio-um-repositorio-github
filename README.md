@@ -6,7 +6,7 @@ Esse projeto tem a função de mostrar o básico para você criar seu primeiro r
 1. Você tem que criar uma conta no site: [GitHub.com](https://github.com/)
 
 
-2. No menu superior do lado direito, clique na seta para baixo e selecione **"New Repository"** igual mostram as figuras abaixo:
+2. No menu superior do lado direito, clique na seta para baixo e selecione **"New Repository"** como mostram as figuras abaixo:
 
 ![new repository](https://user-images.githubusercontent.com/97802196/154554226-9c7bfd0a-e83e-4b01-bab5-ab7ff3efe8b8.jpg)
 
