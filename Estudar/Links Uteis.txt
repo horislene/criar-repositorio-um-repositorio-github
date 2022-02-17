@@ -1,0 +1,14 @@
+GitHub:
+https://github.com/
+
+Download GitHub Desktop
+https://desktop.github.com/
+
+Download Git
+https://git-scm.com/
+
+Download Visual Studio Code (Permite editar em Markdown)
+https://code.visualstudio.com/download
+
+Aprender sobre Markdown
+https://www.markdownguide.org/getting-started/
